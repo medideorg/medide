@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "797803622682",
+    "project_id": "medide-e34b4",
+    "storage_bucket": "medide-e34b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797803622682:android:2720b490c5c0e98c277ca3",
+        "android_client_info": {
+          "package_name": "com.example.medide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797803622682-8g7jjjaj8vt8036am10jq44ad0imsonc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOuBUCkDfMIuUwhzhSZ1JP7d1OJ1PWCHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797803622682-8g7jjjaj8vt8036am10jq44ad0imsonc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "797803622682-hlscmpva83gafocq1qdpqcsbrepgqsa8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.medide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
